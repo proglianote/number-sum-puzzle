@@ -1,0 +1,5 @@
+{
+  "name": "Number Sum Puzzle",
+  "description": "A minimalist math puzzle game where you select numbers to reach a target sum.",
+  "requestFramePermissions": []
+}
